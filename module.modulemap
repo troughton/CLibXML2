@@ -1,5 +1,5 @@
 module CLibXML2 [system] {
     header "/usr/include/libxml2/libxml/parser.h"
-    link "lxml2"
+    link "xml2"
     export *
 }
